@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1429737572"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FuC:\Users\userzero\tugas\Pemograman Dasar\KB.08 Uji Pengetahuan dan Praktikum\KB.08 Praktikum\BiodataAnggotaKelompok2\&quot; &quot;-FUC:\Users\userzero\tugas\Pemograman Dasar\KB.08 Uji Pengetahuan dan Praktikum\KB.08 Praktikum\BiodataAnggotaKelompok2\lib\i386-win32\&quot; &quot;-FEC:\Users\userzero\tugas\Pemograman Dasar\KB.08 Uji Pengetahuan dan Praktikum\KB.08 Praktikum\BiodataAnggotaKelompok2\&quot; &quot;-oC:\Users\userzero\tugas\Pemograman Dasar\KB.08 Uji Pengetahuan dan Praktikum\KB.08 Praktikum\BiodataAnggotaKelompok2\BiodataAnggotaKelompok2.exe&quot; BiodataAnggotaKelompok2.pp"/>
+</CONFIG>
